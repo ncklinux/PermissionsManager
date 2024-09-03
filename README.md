@@ -13,8 +13,7 @@ $ sudo pacman -S tk git
 
 # Ubuntu
 $ python3 -V && pip3 --version
-$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
-$ sudo apt install git
+$ sudo apt install python3-tk git
 
 # Clone repository
 $ git clone git@github.com:ncklinux/PermissionsManager.git
